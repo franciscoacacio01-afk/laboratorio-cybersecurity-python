@@ -4,13 +4,13 @@ Laboratório prático de CyberSecurity utilizando Python, com estudos educaciona
 # 🛡️ Laboratório de CyberSecurity com Python
 
 
-📌 Sobre o Projeto
+## 📌 Sobre o Projeto
 
 Este repositório reúne atividades práticas desenvolvidas durante meus estudos de CyberSecurity, utilizando Python para compreender o funcionamento de ameaças digitais, técnicas de criptografia, captura de informações e estratégias de defesa.
 
 O laboratório foi desenvolvido em ambiente controlado, com finalidade exclusivamente educacional, utilizando arquivos fictícios e dados de teste.
 
-🎯 Objetivos
+## 🎯 Objetivos
 
 - Compreender o funcionamento de Ransomware.
 - Estudar criptografia simétrica utilizando Fernet.
@@ -19,7 +19,7 @@ O laboratório foi desenvolvido em ambiente controlado, com finalidade exclusiva
 - Estudar técnicas de prevenção, detecção e mitigação de ameaças.
 - Desenvolver conhecimentos práticos em Python e segurança da informação.
 
-💻 Ambiente de Desenvolvimento
+## 💻 Ambiente de Desenvolvimento
 
 | Componente | Configuração |
 |---|---|
@@ -29,9 +29,9 @@ O laboratório foi desenvolvido em ambiente controlado, com finalidade exclusiva
 | Criptografia | Cryptography / Fernet |
 | Terminal | PowerShell |
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
-
+```text
 laboratorio-cybersecurity-python/
 │
 ├── README.md
@@ -48,9 +48,9 @@ laboratorio-cybersecurity-python/
 │
 └── images/
     └── evidencias/
+```
 
-
- 🔐 1. Estudo sobre Ransomware
+## 🔐 1. Estudo sobre Ransomware
 
 Nesta atividade foi estudado o funcionamento de um ransomware simulado, utilizando Python e a biblioteca Cryptography.
 
@@ -64,7 +64,7 @@ Principais conceitos abordados:
 
 Os experimentos utilizaram exclusivamente arquivos fictícios em diretório de testes isolado.
 
- ⌨️ 2. Estudo sobre Keylogger
+## ⌨️ 2. Estudo sobre Keylogger
 
 Esta etapa aborda o funcionamento dos Keyloggers e os riscos relacionados à captura de informações digitadas pelos usuários.
 
@@ -78,7 +78,7 @@ Conceitos estudados:
 
 As demonstrações devem permanecer limitadas a dados de teste e sem coleta ou transmissão de informações pessoais.
 
-🛡️ 3. Reflexão sobre Defesa
+## 🛡️ 3. Reflexão sobre Defesa
 
 A segurança da informação exige medidas preventivas e mecanismos eficientes de detecção e resposta.
 
@@ -96,19 +96,19 @@ Entre as principais estratégias estudadas estão:
 
 A combinação dessas medidas contribui para reduzir os riscos de comprometimento dos sistemas e proteger a disponibilidade, integridade e confidencialidade das informações.
 
-📚 Aprendizados
+## 📚 Aprendizados
 
 Este laboratório proporcionou uma experiência prática com Python e conceitos fundamentais de segurança da informação.
 
 O desenvolvimento das atividades permitiu compreender melhor como determinadas ameaças digitais funcionam e como mecanismos de defesa podem ser utilizados para identificar, prevenir e mitigar incidentes.
 
-⚠️ Aviso Educacional
+## ⚠️ Aviso Educacional
 
 Este projeto possui finalidade exclusivamente educacional e foi desenvolvido para estudos em ambiente controlado.
 
 Não deve ser utilizado para capturar informações de terceiros, comprometer sistemas, causar indisponibilidade de dados ou realizar atividades sem autorização.
 
- Autor
+## 👨‍💻 Autor
 
 **Francisco Acácio**
 
@@ -117,4 +117,3 @@ Estudante de CyberSecurity | Tecnologia da Informação
 GitHub: [@franciscoacacio01-afk](https://github.com/franciscoacacio01-afk)
 
 Projeto desenvolvido como atividade prática de formação em CyberSecurity.
-
