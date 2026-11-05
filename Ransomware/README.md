@@ -82,10 +82,3 @@ Para reduzir os riscos relacionados a ransomware, destacam-se:
 Este experimento teve finalidade exclusivamente educacional e foi executado em ambiente controlado, utilizando apenas arquivos fictícios na pasta `Teste_Files`. A prática contemplou tanto a criptografia quanto a recuperação dos arquivos, que, segundo a validação realizada, foram restaurados corretamente.
 
 O estudo contribuiu para compreender conceitos de criptografia, gerenciamento de chaves e impactos de ataques de ransomware, além de destacar a importância de prevenção, detecção, backups e recuperação.
-
-- Conceitos de criptografia simétrica.
-- Utilização da biblioteca Cryptography.
-- Funcionamento do mecanismo Fernet.
-- Importância do gerenciamento seguro de chaves.
-- Riscos associados à indisponibilidade de arquivos.
-- Necessidade de backups e procedimentos de recuperação.
