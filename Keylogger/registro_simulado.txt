@@ -1,0 +1,7 @@
+REGISTRO FICTICIO - FINS EDUCACIONAIS
+=============================================
+
+Usuario demonstrativo iniciou a sessao.
+Entrada ficticia: teste de seguranca.
+Entrada ficticia: laboratorio de Python.
+Usuario demonstrativo encerrou a simulacao.
